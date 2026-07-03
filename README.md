@@ -10,12 +10,7 @@
 
 ## 💻 `$ cat about_me.txt`
 
-```bash
-velo0@linux-mint:~$ whoami
-> Full-stack developer from Hungary 🇭🇺
-> I build web platforms, Roblox games, and AI-powered tools
-> Daily driver: Linux Mint 🐧 | Editor: whatever gets the job done
-```
+
 
 - 🌙 Building **Lunar CSS** — a dark, night-sky themed utility-first CSS framework
 - 🎮 Developing **Roblox games** with Luau (physics, matchmaking, game systems)
